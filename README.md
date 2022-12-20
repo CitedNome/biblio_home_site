@@ -1,4 +1,4 @@
-# Home Site Bibliotec Civica di Longarone
+# Home Site Biblioteca Civica di Longarone
 
 Semplici pagine web da usare come homepage per i servizi internet delle postazioni computer della Biblioteca Civica di Longarone
 ***
