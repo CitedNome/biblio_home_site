@@ -1,0 +1,10 @@
+/*#img_bibel {float: left;}
+#content_bibel {padding-left: 20px; float: left;}
+body {font-size: 175%;}
+*/
+
+body {zoom: 150%}
+
+.flex {display:flex}
+.v_center {align-items: center;}
+.text_center {text-align: center;}
